@@ -18,7 +18,7 @@ chrom driver는 테스트 버전으로 설치 해야 하며 같은 폴더에 있
 테스트 결과는 repots폴더에 저장된다.
 """
 # 실행
-python unittest testRun.py -v
+python unittest runTest.py -v
 ```
 
 ## 참고 
